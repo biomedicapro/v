@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:03,000
+Hola, bienvenidos al video.
+
+2
+00:00:03,000 --> 00:00:06,000
+En este video aprenderemos algo nuevo.
+
+3
+00:00:06,000 --> 00:00:09,000
+¿Están listos para empezar?
+
+4
+00:00:09,000 --> 00:00:12,000
+Primero, vamos a ver un concepto clave.
+
+5
+00:00:12,000 --> 00:00:15,000
+Este concepto es importante para entender el tema.
+
+6
+00:00:15,000 --> 00:00:18,000
+Ahora, pasemos a un ejemplo práctico.
+
+7
+00:00:18,000 --> 00:00:21,000
+Miren cómo aplicamos este concepto en la vida real.
+
+8
+00:00:21,000 --> 00:00:24,000
+¿Tienen alguna pregunta hasta ahora?
+
+9
+00:00:24,000 --> 00:00:27,000
+Sigamos con más detalles interesantes.
+
+10
+00:00:27,000 --> 00:00:30,000
+Esto puede parecer complicado, pero es sencillo.
+
+11
+00:00:30,000 --> 00:00:33,000
+Estamos llegando al final del video.
+
+12
+00:00:33,000 --> 00:00:36,000
+Esperamos que les haya gustado esta información.
+
+13
+00:00:36,000 --> 00:00:39,000
+Recuerden practicar para mejorar.
+
+14
+00:00:39,000 --> 00:00:41,000
+Gracias por ver el video. ¡Hasta la próxima!
